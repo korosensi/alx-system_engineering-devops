@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$PWD" echo "${0%/*}" echo "$(pwd)" pwd
+echo "$PWD"
